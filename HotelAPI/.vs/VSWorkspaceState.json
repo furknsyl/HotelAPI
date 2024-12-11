@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiConsume",
+    "\\ApiConsume\\HotelProject.WebApi",
+    "\\Frontend",
+    "\\Frontend\\HotelProject.WebUI",
+    "\\Frontend\\HotelProject.WebUI\\Controllers"
+  ],
+  "SelectedNode": "\\ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj",
+  "PreviewInSolutionExplorer": false
+}
