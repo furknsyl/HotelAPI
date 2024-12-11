@@ -36,6 +36,8 @@ A few pictures of this project :
 
 ![image](https://github.com/user-attachments/assets/7421ffe3-4964-4a4e-88c3-f713b2e58484)
 
+![image](https://github.com/user-attachments/assets/0ae7fafe-8dab-4cf0-9c9e-a7dc5e1e776f)
+
 ![image](https://github.com/user-attachments/assets/ad7cbae8-90c4-4a5f-a027-3258932abfee)
 
 ![image](https://github.com/user-attachments/assets/79875fd1-2ba4-4245-94e0-37c401f8d1f9)
