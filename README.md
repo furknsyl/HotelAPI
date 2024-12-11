@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/96418405-263d-403d-baa5-919ab955c29e)Asp.Net Core Api
-
 Asp.Net Identity
 
 Swagger
