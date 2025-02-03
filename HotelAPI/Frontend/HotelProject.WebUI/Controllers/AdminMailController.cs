@@ -17,7 +17,7 @@ namespace HotelProject.WebUI.Controllers
         {
             MimeMessage mimeMessage=new MimeMessage();
 
-            MailboxAddress mailboxAddressFrom = new MailboxAddress("HotelilerAdmin", "fsoylu500@gmail.com");
+            MailboxAddress mailboxAddressFrom = new MailboxAddress("HotelilerAdmin", "blablabla@gmail.com");
             mimeMessage.From.Add(mailboxAddressFrom);
 
             MailboxAddress mailboxAddressTo = new MailboxAddress("User",model.ReceiverMail);
@@ -31,7 +31,7 @@ namespace HotelProject.WebUI.Controllers
             
             SmtpClient client=new SmtpClient();
             client.Connect("smtp.gmail.com", 587, false);
-            client.Authenticate("fsoylu500@gmail.com", "nuulzeelxstepuww");
+            client.Authenticate("blablabla@gmail.com", "your_key");
             client.Send(mimeMessage);
             client.Disconnect(true);
             return View();
